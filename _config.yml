@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: wbazmy
+subtitle: 个人博客
+description: Welcome to my blog
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: wbazmy
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "https://leopardpan.cn"
+avatarDesc: Java / 后端
+url: "https://wbazmy.com"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
@@ -25,7 +25,7 @@ social:
     # juejin: xxx
     jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: xduzhangy@126.com
 
 
 # 百度统计 
