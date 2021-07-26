@@ -2,7 +2,7 @@
 layout: post
 title: JDK,JRE和JVM
 date: 2021-07-26
-tags: Java基础
+tags: Java基础概念
 ---
 JDK：Java Development Kit        //Java开发工具包  
 JRE：Java runtime environment     //Java运行环境  
